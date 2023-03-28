@@ -1,0 +1,43 @@
+chr	start	end	strand	product	group	notes
+chrKU761327.1	1	33287	+	whole plasmid	plasmid	
+chrKU761327.1	1	873	+	pir	replication	
+chrKU761327.1	886	1290	+	hypothetical protein	hypothetical	
+chrKU761327.1	1425	1952	+	hypothetical protein	hypothetical	
+chrKU761327.1	2343	3089	-	PAP2-like	mcr	
+chrKU761327.1	3137	4762	-	mcr-1	mcr	
+chrKU761327.1	4936	5565	-	hypothetical protein	hypothetical	
+chrKU761327.1	5726	5995	-	hypothetical protein	hypothetical	
+chrKU761327.1	6070	6717	-	ParA	other	Chromosome partitioning protein
+chrKU761327.1	7131	7310	-	hypothetical protein	hypothetical	
+chrKU761327.1	8258	8962	-	TnpA	transposase	Transposase (IS26)
+chrKU761327.1	9049	9513	-	hns	other	H-NS dna binding protein
+chrKU761327.1	9531	9737	-	Hha EM 	other	Hemolysin expression modulator 
+chrKU761327.1	9734	11887	-	topB	other	Topoisomerase III
+chrKU761327.1	11892	12464	-	hypothetical protein	hypothetical	
+chrKU761327.1	12775	13080	-	trbM-like 	other	
+chrKU761327.1	13064	13483	-	putative lipoprotein	other	
+chrKU761327.1	13495	15312	-	taxB	tra	
+chrKU761327.1	15344	16372	-	pilx11	pil	
+chrKU761327.1	16374	17492	-	pilx10	pil	
+chrKU761327.1	17485	18393	-	pilx9	pil	
+chrKU761327.1	18390	19076	-	pilx8	pil	
+chrKU761327.1	19069	19197	-	pilx7	pil	
+chrKU761327.1	19591	20685	-	pilx6	pil	
+chrKU761327.1	20697	21413	-	pilx5	pil	
+chrKU761327.1	21425	24172	-	pilx3-4	pil	
+chrKU761327.1	24191	24517	-	pilx2	pil	
+chrKU761327.1	24531	25151	-	pilx1	pil	
+chrKU761327.1	25154	25330	-	hypothetical protein	hypothetical	
+chrKU761327.1	25507	25722	-	eex	other	
+chrKU761327.1	25719	26012	-	hypothetical protein	hypothetical	
+chrKU761327.1	26089	27318	-	taxC	tra	
+chrKU761327.1	27322	27825	-	taxA	tra	
+chrKU761327.1	28186	28533	-	hicB	toxin-antitoxin	
+chrKU761327.1	28530	28778	-	hicA	toxin-antitoxin	
+chrKU761327.1	29083	29433	-	hypothetical protein	hypothetical	
+chrKU761327.1	29524	29823	-	hypothetical protein	hypothetical	
+chrKU761327.1	29825	30184	-	hypothetical protein	hypothetical	
+chrKU761327.1	30277	30504	-	hypothetical protein	hypothetical	
+chrKU761327.1	30491	30742	-	hypothetical protein	hypothetical	
+chrKU761327.1	30739	31281	-	hypothetical protein	hypothetical	
+chrKU761327.1	31386	32264	-	dnaJ	other	Chaperone protein
