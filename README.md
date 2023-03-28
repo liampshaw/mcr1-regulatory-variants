@@ -1,3 +1,10 @@
+*NOTE:* This repository has been archived on figshare (doi: [10.6084/m9.figshare.20943256.v1](https://doi.org/10.6084/m9.figshare.20943256.v1)) together with an additional archive of assemblies used (`assemblies.zip`). 
+
+Associated paper:
+Regulatory fine-tuning and horizontal gene transfer stabilize mobile colistin resistance  
+Lois Ogunlana, Liam P. Shaw, Divjot Kaur, Pramod Jangir, Timothy Walsh, Stephan Uphoff, R.C. MacLean  
+preprint doi: [10.1101/2022.11.04.515217](https://doi.org/10.1101/2022.11.04.515217)
+
 These files are provided 'as is' to provide a record of the figures, data and analysis presented in the associated paper. They are messy. Scripts are not designed to work on your machine - although you should be able to run the figure construction scripts in R if you have the necessary packages installed. 
 
 Any questions, please contact:
@@ -7,7 +14,7 @@ liam.philip.shaw@gmail.com
 Author: Liam Shaw, 05/09/2022
 Updated: 28/03/2023
 
-Figshare does not have a folder structure, so I use prefixes to organise the files. 
+Figshare does not have a folder structure, so I use prefixes to organise the files.
 
 ## PREPROCESSING 
 `preprocessing_trim-and-assemble.sh` - cluster array script used to download reads from NCBI then de novo assemble
