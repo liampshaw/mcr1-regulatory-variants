@@ -22,7 +22,7 @@ Figshare does not have a folder structure, so I use prefixes to organise the fil
 `preprocessing_snippy-core.sh` - cluster script (single command) used to get variants from snippy mapping, with masked positions
 
 ## ASSEMBLY DATA
-`assemblies.zip` - de novo assemblies for all isolates analysed
+`assemblies.zip` - de novo assemblies for all isolates analysed (*not included here*: see figshare to download)
 
 ## OTHER DATA FILES 
 `data_mask.bed` - BED file of positions masked (for snippy-core)
